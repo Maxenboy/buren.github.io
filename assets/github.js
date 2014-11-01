@@ -1,4 +1,4 @@
-GITHUB_USER = 'buren';
+GITHUB_USER = 'Maxenboy';
 
 (function ($, undefined) {
 
